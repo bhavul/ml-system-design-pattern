@@ -160,3 +160,12 @@ https://www.mercari.com/cla/
 Copyright 2020 Mercari, Inc.
 
 Licensed under the [MIT License](LICENSE).
+
+
+## NOTE TO SELF FOR THINGS TO FIX WHEN TIME IS AVAILABLE
+
+- Choise -> choice.  
+- Serving patterns ~ logical division
+- change all diagrams to use the python library and make them more clearer
+- fill in the WIP patterns
+- read "data readiness" paper and add patterns on data annotation and collection aspect
