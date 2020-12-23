@@ -169,3 +169,5 @@ Licensed under the [MIT License](LICENSE).
 - change all diagrams to use the python library and make them more clearer
 - fill in the WIP patterns
 - read "data readiness" paper and add patterns on data annotation and collection aspect
+- test patterns : `verity` instead of verify
+- test patterns - online AB has pros wrong
